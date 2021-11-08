@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1635424618 source:d:\work\cpp\headerex\main.cpp
+	<iostream>
+	"arithmetics.h"
+
+1635424593 d:\work\cpp\headerex\arithmetics.h
+
+1635753884 source:d:\work\cpp\headerex\inputstest.cpp
+	<iostream>
+
