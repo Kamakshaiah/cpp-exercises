@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636954762 source:d:\work\cpp\setwdemo\main.cpp
+	<iostream>
+	<iomanip>
+	<time.h>
+
