@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1637640570 source:d:\work\cpp\simpleandcomplexinterest\main.cpp
+	<iostream>
+
+1637641265 source:d:\work\cpp\simpleandcomplexinterest\test.cpp
+	<iostream>
+	<bits/stdc++.h>
+
