@@ -1,4 +1,5 @@
 # depslib dependency file v1.0
-1636349319 source:d:\work\cpp\inputtest\main.cpp
+1636350928 source:d:\work\cpp\inputtest\main.cpp
 	<iostream>
+	<fstream>
 
