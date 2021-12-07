@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638777932 source:d:\work\cpp\genderarraydemo\main.cpp
+	<iostream>
+	<algorithm>
+	<iterator>
+
