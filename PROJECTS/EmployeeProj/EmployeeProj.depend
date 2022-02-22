@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1645081537 source:c:\users\gim\documents\my tableau repository\employeeproj\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
+1645081570 source:d:\work\cpp\projects\employeeproj\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

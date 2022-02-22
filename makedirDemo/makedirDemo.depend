@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645509075 source:d:\work\cpp\makedirdemo\main.cpp
+	<iostream>
+	<direct.h>
+	<fstream>
+
